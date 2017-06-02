@@ -1,0 +1,14 @@
+matlab folder = C:\Users\chipes\Desktop\Shruti\FYP
+unfamiliar stimulus folder = C:\Users\chipes\Desktop\Shruti\FYP\Unfamiliar
+familiar stimulus folder = C:\Users\chipes\Desktop\Shruti\FYP\Familiar
+unfamiliar stimulus bank folder = C:\Users\chipes\Desktop\Shruti\FYP\Unfamiliar Stimulus Bank
+familiar stimulus bank folder = C:\Users\chipes\Desktop\Shruti\FYP\Familiar Stimulus Bank
+Converge stimulus folder = C:\Users\chipes\Desktop\Shruti\FYP\Convergence
+number of unfamiliar stimulus from bank = 10
+number of familiar stimulus from bank (MUST BE SAME AS ABOVE) = 10
+EEG recording duration (ms) = 2000
+MATLAB training data processing script (for Classification Results button) = trainingData_features1
+MATLAB experiment data processing script (for Classification Results button) = experimentData_features1
+MATLAB SVM modelling and classification script (for Classification Results button) = svmclassification
+Continuous Recording = true
+Rest Period (ms) = 2000
